@@ -1,0 +1,24 @@
+{
+  "name": "api-curso",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "google-auth-library": "^9.4.1",
+    "google-spreadsheet": "^4.1.1",
+    "next": "12.2.5",
+    "nextjs-cors": "^2.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swagger-ui-dist": "^4.14.0"
+  },
+  "devDependencies": {
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
